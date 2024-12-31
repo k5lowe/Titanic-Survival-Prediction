@@ -18,12 +18,12 @@ Features:
 - Correlation Analysis: Identified relationships between ticket types/ranges and survival rates.
   
 Technologies:
-- Python: Primary programming language used for the analysis.
-- Pandas: For data manipulation and cleaning.
-- NumPy: For numerical operations and array handling.
-- Matplotlib/Seaborn: For creating visualizations and analyzing patterns.
-- Kaggle Datasets: Used the Titanic dataset as the source for the analysis.
-- Jupyter Notebook/VS Code: For iterative coding and development.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Kaggle Datasets
+- Jupyter Notebook/VS Code
 
 ## Attributions & Remarks ##
 
